@@ -1,5 +1,5 @@
 
-<div align="center"> The Pong Game <br/> <br/> <img src="PongGame_icon.jpeg" width="150"> </div>
+<div align="center"> The Pong Game <br/> <br/> <img src="PongGame_icon.png" width="150"> </div>
 
 # Pong Game in Python
 
